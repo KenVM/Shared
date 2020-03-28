@@ -1,0 +1,8 @@
+
+
+
+cd C:\Users\simle\AppProjects\SnakeSinglePlayer
+venv\Scripts\activate.bat
+
+
+pip install -r requirements.txt
